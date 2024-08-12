@@ -30,30 +30,6 @@ The application is built with a modular architecture that integrates OCR and NLP
 - **Image Processing:** PIL (Pillow)
 - **Development Tools:** Git, VS Code, Jupyter Notebook
 
-## Installation
-
-To run the application locally, follow these steps:
-
-1. **Clone the Repository:**
-    ```bash
-    git clone https://github.com/yourusername/legaleze-assistance.git
-    ```
-   
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-   
-3. **Run the Application:**
-    - For the Tkinter-based desktop application:
-        ```bash
-        python main_gui.py
-        ```
-    - For the Flask-based web application:
-        ```bash
-        flask run
-        ```
-
 ## Code Overview
 
 - **[Main Application Code](https://github.com/yourusername/legaleze-assistance/tree/main/src):** The core logic and processing functions.
@@ -63,14 +39,10 @@ To run the application locally, follow these steps:
 
 Feel free to fork this repository, create a branch, and submit a pull request with your improvements or bug fixes. All contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or issues, please open an issue on GitHub or contact the project maintainer.
-
----
 
 **Disclaimer:** The application is still under development, and the current testing results apply to a limited dataset. Further testing and improvements are ongoing.
