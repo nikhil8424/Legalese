@@ -20,7 +20,7 @@ The application is built with a modular architecture that integrates OCR and NLP
 ### Main Modules:
 - **OCR Module:** Handles text extraction from PDF, JPG, and PNG files.
 - **NLP Module:** Processes extracted text for key information.
-- **User Interface:** Built using [Tkinter](https://docs.python.org/3/library/tkinter.html) for a desktop interface or [Flask](https://flask.palletsprojects.com/) for a web-based interface.
+- **User Interface:** Built using [Tkinter](https://docs.python.org/3/library/tkinter.html) for a desktop interface 
 
 ## Technology Stack
 
